@@ -1,5 +1,7 @@
 # AI Youtube Summarizer
 
+![Designer](https://github.com/kharbandaraghu/AI-Youtube-Summarizer/assets/36905731/bd7845f2-fa0a-4476-8dcf-7d9031a059fe)
+
 This shell script is designed to generate a concise summary of the transcript of a YouTube video provided as input. The summary is generated using the OpenAI API and the GPT-3.5 model. Before using the script, please make sure you have the necessary dependencies and packages installed.
 
 ## Prerequisites
